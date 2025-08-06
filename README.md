@@ -4,13 +4,19 @@ This is a code for forward simulation acceleration, which combines the principle
 # Result
 **P-wave field comparison results**.
 
+The figure above shows the convolution method, and the figure below shows the ordinary finite difference method.
+
 <img width="1000" height="600" alt="result" src="https://github.com/user-attachments/assets/6357435e-110c-48f1-8e66-4ddd7332d7f2" />
 
 **S-wave field comparison results**.
 
+The figure above shows the convolution method, and the figure below shows the ordinary finite difference method.
+
 <img width="1000" height="600" alt="result_s" src="https://github.com/user-attachments/assets/a457b838-ca45-4772-b77e-cd1f2a14d556" />
 
-**Comparison of calculation speed at 4000 sampling points (4 s)**.
+**Comparison of calculation speed at 4000 ms sampling points (4 s)**.
+
+The computational time for the convolution method is approximately 6.87 seconds, while that for the ordinary finite difference method is approximately 12.56 seconds.
 
 <img width="231" height="120" alt="speed" src="https://github.com/user-attachments/assets/b3e8ea33-777d-4c69-be27-32187de6e4a6" />
 
