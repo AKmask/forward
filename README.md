@@ -27,6 +27,9 @@ Software required:
 # Usage
 Download this code to your folder, configure the appropriate environment, and then execute forward.py.
 - python forward.py
+  
+# Cite
+
 # Acknowledgments
 This work was supported by Award Project of Heilongjiang Province Science and Technology Innovation Base in China"Key Technology Research on Digital Intelligent Oilfield Information Perception and Intelligent Analysis Processing" (JD24A009).
 # License
