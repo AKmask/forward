@@ -15,7 +15,18 @@ This is a Python code for forward acceleration calculation, which combines the f
 <img width="231" height="120" alt="speed" src="https://github.com/user-attachments/assets/b3e8ea33-777d-4c69-be27-32187de6e4a6" />
 
 # Requirements
-Hardware requirements: NVIDIA 30 series 8G memory graphics card
-Software required: python:3.9.19, torch:2.0.1+cu118, numpy:1.26.3, scipy:1.13.0, matplotlib:3.9.2
+Hardware requirements: 
+- NVIDIA 30 series 8G memory graphics card
+Software required:
+- python:3.9.19,
+- torch:2.0.1+cu118,
+- numpy:1.26.3,
+- scipy:1.13.0,
+- matplotlib:3.9.2
 # Usage
 Download this code to your folder, configure the appropriate environment, and then execute forward.py.
+- python forward.py
+# Acknowledgments
+This work was supported by Award Project of Heilongjiang Province Science and Technology Innovation Base in China"Key Technology Research on Digital Intelligent Oilfield Information Perception and Intelligent Analysis Processing" (JD24A009).
+# License
+
