@@ -17,6 +17,7 @@ This is a Python code for forward acceleration calculation, which combines the f
 # Requirements
 Hardware requirements: 
 - NVIDIA 30 series 8G memory graphics card
+
 Software required:
 - python:3.9.19,
 - torch:2.0.1+cu118,
@@ -29,4 +30,4 @@ Download this code to your folder, configure the appropriate environment, and th
 # Acknowledgments
 This work was supported by Award Project of Heilongjiang Province Science and Technology Innovation Base in China"Key Technology Research on Digital Intelligent Oilfield Information Perception and Intelligent Analysis Processing" (JD24A009).
 # License
-
+forwardpy is licensed under the [Apache License 2.0](LICENSE.txt).
