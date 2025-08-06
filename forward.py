@@ -494,9 +494,8 @@ def conv6(lt,  cuda_use=True):
 
 if __name__ == '__main__':
     '''
-        This code compares the performance of the convolution method and the finite difference method under 
-    the time resolution of 2nd order and the spatial resolution of 6th order.
-        The output results include a comparison of the computational speed of the two methods and snapshots of the p-wave and s-wave fields.
+    This code compares the performance of the convolution method and the finite difference method under the time resolution of 2nd order and the spatial resolution of 6th order.
+    The output results include a comparison of the computational speed of the two methods and snapshots of the p-wave and s-wave fields.
     '''
     # convolution method
     pz61,px61 = conv6( 4000,  cuda_use=True)
@@ -508,6 +507,7 @@ if __name__ == '__main__':
     print("compara S wave")
     # s-wave field imaging comparison
     make_pci(px61, px62)
+
 
 
 
