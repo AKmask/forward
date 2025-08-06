@@ -1,5 +1,5 @@
 # Description
-This is a Python code for forward acceleration calculation, which combines the finite difference principle and the convolution calculation principle to greatly improve the calculation speed of forward calculation, and the imaging effect is the same as that of finite difference.
+This is a Python code for forward acceleration calculation, which combines the finite difference principle and the convolution calculation principle to greatly improve the calculation speed of forward calculation, and the imaging quality is the same as that of finite difference.
 
 # Result
 **P-wave field comparison results**.
@@ -29,7 +29,8 @@ Download this code to your folder, configure the appropriate environment, and th
 - python forward.py
   
 # Cite
-
+If you use our code, please cite our article.
+The citation format will be uploaded after the article is accepted.
 # Acknowledgments
 This work was supported by Award Project of Heilongjiang Province Science and Technology Innovation Base in China"Key Technology Research on Digital Intelligent Oilfield Information Perception and Intelligent Analysis Processing" (JD24A009).
 # License
